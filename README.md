@@ -2,11 +2,9 @@
 
 #[Live Site](https://epic-tereshkova-b6848d.netlify.app)
 
-This is a code repository for the corresponding video tutorial.
+This is a code repository for pwa app.
 
-In this video, we will create a PWA. We're going to use React with service workers.
-
-By the end of this video, you will have a strong understanding of what PWA is and how you can build, deploy and publish it.
+We will create a PWA. We're going to use React with service work.
 
 Setup:
 
